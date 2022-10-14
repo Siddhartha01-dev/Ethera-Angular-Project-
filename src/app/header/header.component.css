@@ -1,0 +1,31 @@
+
+.head{
+    height: 60px;
+   
+}
+
+.inner{
+  width: 100%;
+    border-bottom: 1px solid black;
+   
+}
+
+
+.inner .inner-block{
+    
+   float: right;
+   margin: 10px 10px 10px 0;
+    
+}
+.inner span{
+    color: white;
+    margin-left: 3px;
+}
+
+
+.inner img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    vertical-align: middle;
+}

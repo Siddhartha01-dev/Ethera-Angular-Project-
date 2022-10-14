@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-color: #160C01;
+    background-attachment: fixed;
+   background-position: center center;
+   background-size: cover;
+   font-family: 'Gill Sans', 'Gill Sans MT',sans-serif;
+   width: 68px;
+   min-height: 100vh;
+   height: 100%;
+   position: fixed;
+}
+
+.main-logo{
+    margin-top: 22px;
+    margin-left: 22px;
+}
+
+.main-logo:hover{
+    cursor: pointer;
+}
+
+.nav-btn{
+    color: white;
+    font-size: 11px;
+    text-align: center;
+}
+
+.nav-btn img{
+    margin-top: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 25px;
+}
+
+.nav-btn img:hover{
+    background-color: aliceblue;
+    cursor: pointer;
+}

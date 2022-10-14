@@ -1,0 +1,125 @@
+.clear{
+    clear: both;
+}
+.settlement-card{
+    margin-top: 50px;
+    width: 480px;
+    background-color: #232323;
+    box-shadow: 3px 3px 3px 3px black;
+    border-radius: 5px;
+    height: 550px;
+    margin-bottom: 100px;
+}
+
+.settle-head{
+    height: 30px;
+    width: 100%;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px ;   
+    background-color: #1E1E1E;
+}
+
+.settle-text{
+    padding-top: 7px;
+    padding-left: 7px;
+    font-size: 12px;
+}
+
+.info-icn{
+    vertical-align: middle;
+    margin-top: 7px;
+    margin-right: 7px;
+    width: 15px !important;
+    height: 15px;
+}
+
+.settle-head img{
+    width: 12px;
+    float: right;
+    vertical-align: middle;
+}
+.details{
+    color:#CF8002;
+    font-size: 12px;
+    float: right;
+    text-decoration: none;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-right: 28px;
+}
+
+.detail-icon{
+    width: 12px;
+    vertical-align: middle;
+    color: #CF8002;
+}
+
+.lower-main2{
+    margin: 50px 30px;
+}
+
+.settlement-block{
+    width: calc(100% - 70%);
+    height: 180px;
+    background-color: #232323;
+    box-shadow: 0px 0px 4px  black;
+    border-radius: 5px ;
+    float: left;   
+}
+
+.upper-detail{
+    height: calc( 100% - 30px);
+}
+.settle-pic{
+    margin-left: 50px;
+    margin-top: 15px;
+    width: 25px;
+}
+
+.amount{
+    color: #BA33B8;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.first{
+   margin-right: 20px;
+   margin-bottom: 35px;
+}
+
+.second{
+    padding-top: 20px;
+    margin-right: 20px;
+}
+
+.third{
+    padding-top: 20px;
+    margin: 0;
+}
+
+.fourth{
+    margin-right: 20px;
+}
+
+.fifth{
+    padding-top: 20px;
+    margin-right: 20px;
+}
+
+.sixth{
+    padding-top: 20px;
+    margin: 0;
+}
+
+.settlement-btn{
+    float: bottom;
+    width: 100%;
+    background-color: #C47503;
+    border: none;
+    color: white;
+    font-size: 12px;
+    height: 30px;
+    border-bottom-left-radius: 3px ;
+    border-bottom-right-radius: 3px;
+}

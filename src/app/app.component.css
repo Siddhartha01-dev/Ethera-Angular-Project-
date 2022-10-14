@@ -1,0 +1,20 @@
+
+.left-bar{
+    width: 68px;
+    min-height: 100vh;
+   height: 100%;
+   position: fixed;
+}
+
+.main{
+    width: calc(100% - 68px);
+    float: right;
+}
+
+.main-upper{
+    float: right;
+}
+.main-lower{
+    padding: 20px 30px;
+    color: white;
+}
